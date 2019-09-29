@@ -1,0 +1,3 @@
+Hello my name is Noah Range
+this text file was created to test if
+the "\n" is stored at the end of Strings in text files
